@@ -20,7 +20,7 @@ class VSTSCDSample extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          I'm ready for CodePush!
+          I'm ready for CodePush! try now!!!
         </Text>
         <Text style={styles.instructions}>
           Shake or press menu button for dev menu
